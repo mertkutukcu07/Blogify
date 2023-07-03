@@ -22,4 +22,3 @@ App Screenshot
 <img width="1098" alt="Ekran Resmi 2023-05-23 02 18 03" src="https://github.com/mertkutukcu07/Blogify/assets/102996772/262b1ba4-1661-4625-a3cc-dbf5f4a574ba">
 
 
-<img width="1098" alt="Ekran Resmi 2023-05-23 02 18 12" src="https://github.com/mertkutukcu07/Blogify/assets/102996772/fbc47d98-5186-4407-8421-726c17444151">
